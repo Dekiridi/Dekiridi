@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Dekiridi
 
 🛡️ Cybersecurity Enthusiast | Ex-Banker | Tech Explorer
-🔗 [LinkedIn](https://linkedin.com/in/kiridi-david) 📧 [Email Me](mailto:kirididavid@gmail.com)
+🔗 [LinkedIn](https://linkedin.com/in/kiridi-david) 📧 [Email](mailto:kirididavid@gmail.com)
  [![GitHub](https://img.shields.io/badge/-%20-000?style=flat-square&logo=github&logoColor=white)](https://github.com/Dekiridi)
 
 # 👨‍💻 About Me
