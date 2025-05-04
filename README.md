@@ -1,5 +1,5 @@
 # Dekiridi.github.io
-# Hi, I&#39;m [Dekiridi]!
+# Hi, I&#39;m Dekiridi
 ### About Me
 - Cybersecurity Analyst Transitioner, Passionate Tech, innovation, and Problem solving.
 - Exploring  (the Cybersecurity space, Excited about the advancement of AI in Cybersecurity,
