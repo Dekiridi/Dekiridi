@@ -1,6 +1,7 @@
-## 👋 Hi there, I'm Dekiridi
+### 👋 Hi there, I'm Dekiridi
 🛡️ Cybersecurity Enthusiast | Ex-Banker | Tech Explorer
-🔗 [LinkedIn Profile](https://linkedin.com/in/kiridi-david) 📧 Email • 💼 Resume
+🔗 [LinkedIn](https://linkedin.com/in/kiridi-david) 📧 [Email](davongushy2008@gmail.com) [![GitHub](https://img.shields.io/badge/-%20-000?style=flat-square&logo=github&logoColor=white)](https://github.com/Dekiridi)
+
 
 # 👨‍💻 About Me
 I’m a passionate Cybersecurity and IT professional transitioning from a successful 9+ year career in Banking and Finance at the Central Bank of Nigeria.
@@ -33,6 +34,8 @@ Communication & Reporting • Critical Thinking • Problem Solving • Cross-Te
 # 🌱 Currently Exploring
 AI in Cybersecurity 🤖
 SOC Workflow Automation
+Penitration Testin
+Ethical Hacking
 Red vs Blue Team Tactics
 
 Cloud Security & Compliance (Google Cloud, AWS)
