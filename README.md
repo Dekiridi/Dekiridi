@@ -3,12 +3,10 @@
 🛡️ Cybersecurity Enthusiast | Ex-Banker | Tech Explorer
 🔗 [LinkedIn](https://linkedin.com/in/kiridi-david) 📧 [Email](davongushy2008@gmail.com) [![GitHub](https://img.shields.io/badge/-%20-000?style=flat-square&logo=github&logoColor=white)](https://github.com/Dekiridi)
 
-
 # 👨‍💻 About Me
-I’m a passionate Cybersecurity and IT professional transitioning from a successful 9+ year career in Banking and Finance at the Central Bank of Nigeria.
-
-With a solid background in financial systems management, account vulnerability assessments, and technical support, I now specialize in network security, incident response, threat intelligence, and SOC operations.
-
+I’m a passionate Cybersecurity and IT professional transitioning from a successful 9+ year career in Banking and Finance at the Central Bank of Nigeria,
+With a solid background in financial systems management, account vulnerability assessments, 
+and technical support, I now specialize in network security, incident response, threat intelligence, and SOC operations.
 I’ve worked extensively with enterprise systems like Temenos T24 and Oracle ERP, and I’m excited about leveraging AI and automation to advance threat detection and cyber defense.
 
 Welcome to my portfolio—where finance meets tech, and curiosity fuels continuous growth. 🚀
