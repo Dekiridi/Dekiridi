@@ -14,9 +14,8 @@ Welcome to my portfolio—where finance meets tech, and curiosity fuels continuo
 # 🛠️ Technical Skills
 Cybersecurity Focus:
 SOC Monitoring • Malware Log Analysis • Penetration Testing • Threat Intelligence • Risk Assessment • Endpoint Security • Firewall Configuration • Incident Response • Network Monitoring • Access Control
-
 Tools & Platforms:
-Wireshark • Nmap • Metasploit • Wazuh • pfSense • Google Cloud • Linux • Temenos T24 • Oracle ERP
+Wireshark • Nmap • Metasploit • Wazuh • pfSense  • Linux • Temenos T24 • Oracle ERP  • Kali linux  • Ubuntu
 
 # Soft Skills:
 Communication & Reporting • Critical Thinking • Problem Solving • Cross-Team Collaboration
@@ -33,11 +32,9 @@ Communication & Reporting • Critical Thinking • Problem Solving • Cross-Te
 # 🌱 Currently Exploring
 AI in Cybersecurity 🤖
 SOC Workflow Automation
-Penitration Testin
+Penetration Testing
 Ethical Hacking
 Red vs Blue Team Tactics
-
-Cloud Security & Compliance (Google Cloud, AWS)
 
 ✨ Fun Fact
 Once a banker, now a breaker—of firewalls (legally, of course 😄). From managing national financial systems to sniffing packets with Wireshark, my journey into cybersecurity has been both humbling and exhilarating.
