@@ -13,7 +13,6 @@ I’ve worked extensively with enterprise systems like Temenos T24 and Oracle ER
 Welcome to my portfolio—where finance meets tech, and curiosity fuels continuous growth. 🚀
 
 # 🛠️ Technical Skills
-Cybersecurity Focus:
 SOC Monitoring • Malware Log Analysis • Penetration Testing • Threat Intelligence • Risk Assessment • Endpoint Security • Firewall Configuration • Incident Response • Network Monitoring • Access Control
 Tools & Platforms:
 Wireshark • Nmap • Metasploit • Wazuh • pfSense  • Linux • Temenos T24 • Oracle ERP  • Kali linux  • Ubuntu
@@ -33,9 +32,9 @@ Communication & Reporting • Critical Thinking • Problem Solving • Cross-Te
 # 🌱 Currently Exploring
 AI in Cybersecurity 🤖
 SOC Workflow Automation
-Penetration Testing
-Ethical Hacking
-Red vs Blue Team Tactics
+🔄 Penetration Testing
+🛡️ Ethical Hacking
+🧑‍💻 Red vs Blue Team Tactics 
 
 ✨ Fun Fact
 Once a banker, now a breaker—of firewalls (legally, of course 😄). From managing national financial systems to sniffing packets with Wireshark, my journey into cybersecurity has been both humbling and exhilarating.
